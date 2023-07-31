@@ -64,3 +64,6 @@ def analyze_orders(orders, status=None, order_type=None, current_year_only=True)
     }
 
     return result
+
+
+
